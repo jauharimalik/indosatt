@@ -1,5 +1,5 @@
 ## Laravel CRUD API with Auth
-Basic Laravel CRUD API application included with Authentication Module & Product Module. It's included with JWT authentication and Swagger API format.
+Basic Laravel CRUD API application included with Authentication Module & Example. It's included with JWT authentication and Swagger API format.
 
 ----
 
@@ -34,22 +34,35 @@ Basic Laravel CRUD API application included with Authentication Module & Product
 1. [x] View Product
 1. [x] Delete Product
 
+
+
+##### Customer Module
+1. [x] Customer List
+1. [x] Create Customer
+1. [x] Edit Customer
+1. [x] View Customer
+1. [x] Delete Customer
+
+##### Invoice Module
+1. [x] Invoice List
+1. [x] Create Invoice
+1. [x] Edit Invoice
+1. [x] View Invoice
+1. [x] Delete Invoice
+
 ### How to Run:
 1. Clone Project - 
 
 ```bash
-git clone https://github.com/ManiruzzamanAkash/Laravel-Basic-CRUD-API.git
+git clone https://github.com/jauharimalik/indosatt.git
 ```
-1. Go to the project drectory by `cd Laravel-Basic-CRUD-API` & Run the
+1. Go to the project drectory by `cd indosatt` & Run the
 2. Create `.env` file & Copy `.env.example` file to `.env` file
-3. Create a database called - `laravel_basic_crud`.
+3. Create a database called - `testindosat`.
 4. Install composer packages - `composer install`.
-5. Now migrate and seed database to complete whole project setup by running this-
-``` bash
-php artisan migrate:refresh --seed
-```
-It will create `21` Users and `103` Dummy Products.
-6. Generate Swagger API
+5. Now migrate database, open testindosat.sql.sql file inside folder database
+6. Copy All Content from testindosat.sql into your sql command
+7. Generate Swagger API
 ``` bash
 php artisan l5-swagger:generate
 ```
