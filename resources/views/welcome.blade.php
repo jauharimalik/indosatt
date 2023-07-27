@@ -31,7 +31,7 @@
                         <a href="{{ route('l5-swagger.default.api') }}" class="btn btn-primary">
                             <i class="fa fa-book"></i> Read API Documentation
                         </a>
-                        <a href="https://github.com/ManiruzzamanAkash/Laravel-Basic-CRUD-API" target="_blank"
+                        <a href="https://github.com/jauharimalik/indosatt" target="_blank"
                             class="btn btn-info">
                             <i class="fab fa-github"></i> Read Github
                         </a>

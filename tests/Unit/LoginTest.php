@@ -15,7 +15,7 @@ class LoginTest extends TestCase
      */
     public function test_is_admin_login_working()
     {
-        Auth::login(User::where('email', 'admin@example.com')->first());
+        Auth::login(User::where('email', 'jauharimalikupil@gmail.com')->first());
 
         // check if user is logged in
         $this->assertTrue(Auth::check());

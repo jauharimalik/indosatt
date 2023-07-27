@@ -42,7 +42,7 @@ class ProductTest extends TestCase
     public function test_can_create_product()
     {
         // Login the user first.
-        Auth::login(User::where('email', 'admin@example.com')->first());
+        Auth::login(User::where('email', 'jauharimalikupil@gmail.com')->first());
         $productRepository = new ProductRepository();
 
         // First count total number of products
