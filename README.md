@@ -8,7 +8,7 @@ Basic Laravel CRUD API application included with Authentication Module & Example
 1. Laravel-9
 
 ### Older Versions (if Needed):
-1. Laravel 8.x - https://github.com/ManiruzzamanAkash/Laravel-Advanced-CRUD-API/releases/tag/vLaravel8.x
+1. Laravel 8.x - https://github.com/laravel/laravel
 
 ### Architecture Used:
 1. Laravel 9.x
