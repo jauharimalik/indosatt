@@ -83,30 +83,7 @@ http://127.0.0.1:8000/api/documentation
 
 
 ### Demo
-
-###### API List Views:
-<img src="https://i.ibb.co/gV1Yn9Z/1-Swagger-API-Demo.png" alt="1-Swagger-API-Demo" border="0">
-
-###### Login in Swagger with Given Data:
-<img src="https://i.ibb.co/5vrXkgN/2-API-Login1.png" alt="2-API-Login1" border="0">
-
-
-###### Get token After Successful Login:
-<img src="https://i.ibb.co/cQ37n9t/3-API-Login2-Response.png" alt="3-API-Login2-Response" border="0">
-
-###### Set token in Swagger Header:
-<img src="https://i.ibb.co/m8xQZ4T/Screenshot-2022-07-12-at-8-37-47-AM.png" alt="4-API-Swagger-Set-Bearer-Token" border="0">
-
-###### Or, Set token in Postman Header as Authorization:
-<img src="https://i.ibb.co/7p8Y3Yz/Postman-Product-List-API-with-Authenticated-Token.png" alt="Postman-Product-List-API-with-Authenticated-Token" border="0">
-
-###### Hit Any API Route in Swagger:
-<img src="https://i.ibb.co/VSWbXq9/5-API-Swaagger-Public-Product-List-View.png" alt="5-API-Swaagger-Public-Product-List-View" border="0">
-
-###### Image Upload throw Postman:
-<img src="https://i.ibb.co/VBkMBBp/Postman-Store-Product-with-File-Upload.png" alt="Postman-Store-Product-with-File-Upload" border="0">
-
-
+video in : https:/erp-choice.com/indosatt.mp4
 
 ### Test
 1. Test with Postman - https://www.getpostman.com/collections/5642915d135f376b84af [Click to open with post man]
